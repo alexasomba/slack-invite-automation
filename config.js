@@ -1,6 +1,6 @@
 module.exports = {
   // your community or team name to display on join page.
-  community: process.env.COMMUNITY_NAME || 'Intern To Expert',
+  community: process.env.COMMUNITY_NAME || 'Intern To Expert by StartupYou',
   // your slack team url (ex: socketio.slack.com)
   slackUrl: process.env.SLACK_URL || 'interntoexpert.slack.com',
   // access token of slack
